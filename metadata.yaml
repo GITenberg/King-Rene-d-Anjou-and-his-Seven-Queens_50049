@@ -1,4 +1,8 @@
 _repo: King-Rene-d-Anjou-and-his-Seven-Queens_50049
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50049-h/images/cover.jpg
 creator:
   author:
     agent_name: Staley, Edgcumbe
@@ -9,6 +13,8 @@ creator:
     gutenberg_agent_id: '3733'
     url: http://www.gutenberg.org/2009/agents/3733
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50049#King-Rene-d-Anjou-and-his-Seven-Queens
 gutenberg_issued: '2015-09-24'
 gutenberg_type: Text
 identifiers:
